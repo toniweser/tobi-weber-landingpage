@@ -10,14 +10,19 @@
     html {
         font-family: 'Inter', sans-serif;
         height: var(--doc-height);
+        @apply text-font;
     }
 
     h1 {
-        @apply text-4xl md:text-5xl xl:text-6xl font-black text-font tracking-wider;
+        @apply text-4xl md:text-5xl xl:text-6xl font-black tracking-wider;
     }
 
     h2 {
         @apply text-xl md:text-2xl xl:text-3xl tracking-wide;
+    }
+
+    h3 {
+        @apply text-2xl lg:text-3xl xl:text-4xl font-bold tracking-wider;
     }
 
     body {
