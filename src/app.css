@@ -3,8 +3,13 @@
 @tailwind utilities;
 
 @layer base {
+    :root {
+        --doc-height: 100%;
+    }
+
     html {
         font-family: 'Inter', sans-serif;
+        height: var(--doc-height);
     }
 
     h1 {
@@ -16,6 +21,6 @@
     }
 
     body {
-        @apply w-full h-screen;
+        height: var(--doc-height);
     }
 }
