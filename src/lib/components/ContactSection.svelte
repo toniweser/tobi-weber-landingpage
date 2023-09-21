@@ -3,8 +3,8 @@
 </script>
 
 <div class="flex h-full items-center justify-center">
-   <div class="flex gap-4 items-center ">
-      <SendIcon class="w-9 lg:w-10 xl:w-12"/>
+   <div class="flex gap-4 items-center">
+      <SendIcon class="w-8 lg:w-10 xl:w-12 mt-1 lg:mt-0.5 xl:mt-0"/>
       <div class="flex-row">
          <h3>
             Contact
