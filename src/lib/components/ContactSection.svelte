@@ -10,7 +10,7 @@
             Contact
          </h3>
          <div class="-mt-0.5 tracking-wider text-sm lg:text-base xl:text-lg">
-            <a href="mailto:hello@tobi-weber.com?subject=Hej%20Tobi%20✌️">hello[at]tobi-weber.com</a>
+            <a href="mailto:hello@tobi-weber.com?subject=Hej%20Tobi%20&#9996;️">hello[at]tobi-weber.com</a>
          </div>
       </div>
    </div>
