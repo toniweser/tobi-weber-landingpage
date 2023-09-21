@@ -13,6 +13,10 @@
     @apply text-font;
   }
 
+  body {
+    height: var(--doc-height);
+  }
+
   h1 {
     @apply text-4xl md:text-5xl xl:text-6xl font-black tracking-wider;
   }
@@ -25,7 +29,7 @@
     @apply text-2xl lg:text-3xl xl:text-4xl font-bold tracking-wider;
   }
 
-  body {
-    height: var(--doc-height);
+  a {
+    @apply hover:text-primaryDark transition-colors duration-200;
   }
 }
