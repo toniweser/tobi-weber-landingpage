@@ -16,7 +16,7 @@
    </div>
 </div>
 <div
-   class="fixed bottom-0 right-0 pr-6 pb-4 text-right hover:translate-y-0 transition-all ease-in-out duration-700 translate-y-[100px] text-xs md:text-sm md:translate-y-[120px] lg:text-lg lg:translate-y-[140px]">
+   class="bg-secondary border-black fixed bottom-0 right-0 px-6 pb-4 text-right hover:translate-y-0 transition-all ease-in-out duration-700 translate-y-[100px] text-xs md:text-sm md:translate-y-[120px] lg:text-lg lg:translate-y-[140px]">
    <div class="font-semibold tracking-wider mb-6">
       Impressum
    </div>
