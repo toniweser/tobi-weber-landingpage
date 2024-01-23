@@ -7,6 +7,20 @@
 - TailwindCSS
 - Vite
 
+## Development
+
+For developing only on local machine, run:
+
+```bash
+npm run dev
+```
+
+For developing on local machine and make the page available on the local network (useful for responsive and mobile development), run:
+
+```bash
+npm run dev:network
+```
+
 ## Deploy to GitHub Pages
 
 ```bash
