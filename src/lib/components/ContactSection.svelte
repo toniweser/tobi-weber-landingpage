@@ -2,7 +2,7 @@
    import SendIcon from "../icons/SendIcon.svelte";
 </script>
 
-<div class="flex h-full items-center justify-center" data-aos="fade-in" data-aos-delay="200">
+<div class="flex h-full items-center justify-center" data-aos="fade-in" data-aos-delay="350" data-aos-duration="1000">
    <div class="flex gap-4 items-center">
       <SendIcon class="w-8 lg:w-10 xl:w-12 mt-1 lg:mt-0.5 xl:mt-0"/>
       <div class="flex-row">
@@ -16,7 +16,8 @@
    </div>
 </div>
 <div
-   class="border-black fixed bottom-0 right-0 px-6 pb-4 text-right hover:translate-y-0 transition-all ease-in-out duration-700 translate-y-[100px] text-xs md:text-sm md:translate-y-[120px] lg:text-lg lg:translate-y-[140px]">
+   class="fixed bottom-0 right-0 px-6 pb-4 text-right hover:translate-y-0 transition-all ease-in-out duration-700 translate-y-[100px] text-xs md:text-sm md:translate-y-[120px] lg:text-lg lg:translate-y-[140px]"
+>
    <div class="font-semibold tracking-wider mb-6">
       Impressum
    </div>
