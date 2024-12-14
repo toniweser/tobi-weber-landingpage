@@ -23,9 +23,9 @@
    </div>
    <div class="text-xs md:text-sm lg:text-base">
       Tobias Weber <br/>
-      Amalienstr. 63 <br/>
-      90763 Fürth<br/>
-      +49 152 / 56719943<br/>
+      Hallstr. 6 <br/>
+      90762 Fürth<br/>
+      <a href="tel:+4915256719943">+49 152 / 56719943</a><br/>
       <a href="mailto:hello@tobi-weber.com?subject=Hej%20Tobi%20&#9996;️">hello[at]tobi-weber.com</a>
    </div>
 </div>

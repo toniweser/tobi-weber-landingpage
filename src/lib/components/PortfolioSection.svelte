@@ -5,7 +5,7 @@
          Tobias Weber
       </h1>
       <h2>
-         Fullstack Developer
+         Senior Fullstack Developer
       </h2>
    </div>
 </div>
