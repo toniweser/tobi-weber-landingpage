@@ -5,11 +5,13 @@
    import "@fontsource/inter/900.css";
 
    import "aos/dist/aos.css";
-   // eslint-disable-next-line
-   // @ts-ignore
+   // @ts-expect-error aos has no types
    import AOS from "aos";
 
    import { onMount } from "svelte";
+   import type { Snippet } from "svelte";
+
+   let { children }: { children: Snippet } = $props();
 
    onMount(() => {
       AOS.init({
@@ -22,4 +24,4 @@
    });
 </script>
 
-<slot/>
+{@render children()}
